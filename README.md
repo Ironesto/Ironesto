@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Gabriel 👋<br><br>Aspiring software developer, currently studying Multiplatform App Development and student in 42 Malaga.  <br>I'm passionate about web development, especially the frontend, but open to working on anything that helps me grow.<br><br>🔭 Working on: camagru, an application that allows users to take or upload photos.<br>🌱 Learning: Vue, TypeScript, and web design</h2>
+<h2 align="left">Hi, I'm Gabriel 👋<br><br>Aspiring software developer, I have a a degree in Multiplatform App Development and I´m student in 42 Malaga.  <br>I'm passionate about web development, especially the frontend, but open to working on anything that helps me grow.<br><br>🔭 Working on: camagru, an application that allows users to take or upload photos.<br>🌱 Learning: Vue, TypeScript, and web design</h2>
 
 ###
 
